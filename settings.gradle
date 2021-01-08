@@ -1,0 +1,5 @@
+rootProject.name = "SeekBar"
+include ':app'
+include ':docs'
+include ':gradle-lib'
+include ':mylibrary'
